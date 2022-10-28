@@ -1,1 +1,1 @@
-# notOrtalamas-Hesaplama
+# notOrtalamasiHesaplama
